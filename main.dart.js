@@ -37984,7 +37984,7 @@ A.YX.prototype={
 $0(){A.ap2(this.a)},
 $S:0}
 A.zw.prototype={
-al(){return new A.CA(A.b([new A.Kp("Welcome to GPA & GWA Calculator!","This tutorial will guide you through using the GPA & GWA Calculator app to track your academic performance. Available as a mobile app, desktop application, and website for your convenience.",null,B.kV)],t.Q_),null,null)},
+al(){return new A.CA(A.b([new A.Kp("Welcome to GPA & GWA Calculator!","This is a GPA & GWA Calculator app to track your academic performance. Available as a mobile app, desktop application, and website for your convenience.",null,B.kV)],t.Q_),null,null)},
 xh(){return this.d.$0()}}
 A.CA.prototype={
 au(){var s,r,q=this,p=null
